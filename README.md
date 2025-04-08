@@ -59,4 +59,13 @@ print(tokenizer.decode(result[0][len(model_input['input_ids'][0]):], skip_specia
 ### Citation
 
 ```
+@misc{kumar2025polyguardmultilingualsafetymoderation,
+      title={PolyGuard: A Multilingual Safety Moderation Tool for 17 Languages}, 
+      author={Priyanshu Kumar and Devansh Jain and Akhila Yerukola and Liwei Jiang and Himanshu Beniwal and Thomas Hartvigsen and Maarten Sap},
+      year={2025},
+      eprint={2504.04377},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.04377}, 
+}
 ```
